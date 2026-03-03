@@ -133,3 +133,5 @@ Reflects my personality through thoughtful color choices and animations
 Acts as a conversation starter for job opportunities and collaborations
 
 ## OUTPUT
+
+<img width="1908" height="927" alt="Image" src="https://github.com/user-attachments/assets/21a1bad3-e0d2-4683-a0d1-d382309b55a2" />
